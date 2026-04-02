@@ -6,6 +6,7 @@ Tracking my daily LeetCode practice as part of my 75-day DS/AI roadmap.
 | # | Problem | Difficulty | Topic | Status |
 |---|---------|------------|-------|--------|
 | 1 | Two Sum | Easy | Arrays, Hash Map | ✅ Accepted |
+| 2 | Valid Palindrome | Easy | Strings, Two Pointers | ✅ Accepted |
 
 ## 📁 Folder Structure
 arrays/ → Array & String problems
