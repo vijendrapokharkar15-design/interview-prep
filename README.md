@@ -7,6 +7,7 @@ Tracking my daily LeetCode practice as part of my 75-day DS/AI roadmap.
 |---|---------|------------|-------|--------|
 | 1 | Two Sum | Easy | Arrays, Hash Map | ✅ Accepted |
 | 2 | Valid Palindrome | Easy | Strings, Two Pointers | ✅ Accepted |
+| 3 | Best Time to Buy & Sell Stock | Easy | Arrays, Greedy | ✅ Accepted |
 
 ## 📁 Folder Structure
 arrays/ → Array & String problems
