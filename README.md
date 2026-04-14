@@ -13,6 +13,8 @@ Tracking my daily LeetCode practice as part of my 75-day DS/AI roadmap.
 | 6 | Move Zeroes | Easy | Arrays, Two Pointers | ✅ Accepted |
 | 7 | Valid Anagram | Easy | Strings, Counter | ✅ Accepted |
 | 8 | Climbing Stairs | Easy | Dynamic Programming | ✅ Accepted |
+| 9 | Reverse Linked List | Easy | Linked List, Three Pointers | ✅ Accepted |
+
 
 ## 📁 Folder Structure
 arrays/ → Array & String problems
