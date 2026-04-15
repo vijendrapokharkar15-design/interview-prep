@@ -14,6 +14,7 @@ Tracking my daily LeetCode practice as part of my 75-day DS/AI roadmap.
 | 7 | Valid Anagram | Easy | Strings, Counter | ✅ Accepted |
 | 8 | Climbing Stairs | Easy | Dynamic Programming | ✅ Accepted |
 | 9 | Reverse Linked List | Easy | Linked List, Three Pointers | ✅ Accepted |
+| 10 | Merge Two Sorted Lists | Easy | Linked List, Dummy Node | ✅ Accepted |
 
 
 ## 📁 Folder Structure
