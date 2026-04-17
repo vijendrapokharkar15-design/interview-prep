@@ -16,6 +16,8 @@ Tracking my daily LeetCode practice as part of my 75-day DS/AI roadmap.
 | 9 | Reverse Linked List | Easy | Linked List, Three Pointers | ✅ Accepted |
 | 10 | Merge Two Sorted Lists | Easy | Linked List, Dummy Node | ✅ Accepted |
 | 11 | Linked List Cycle | Easy | Linked List, Fast & Slow Pointers | ✅ Accepted |
+| 12 | Binary Search | Easy | Arrays, Binary Search | ✅ Accepted |
+
 
 
 
